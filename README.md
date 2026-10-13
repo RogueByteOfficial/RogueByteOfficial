@@ -1,99 +1,171 @@
+# RogueByte — Cybersecurity, AI Engineering, Reverse Engineering & Software Development
 
-«RogueByte — Cybersecurity, Reverse Engineering & Software Development»
+**RogueByte** is an independent technology and cybersecurity research brand founded by **Fares Sid Ahmed (Sido)**, an Algerian software developer and technical researcher based in Oman.
 
-""GitHub" (https://img.shields.io/badge/GitHub-RogueByteOfficial-181717?logo=github)" (https://github.com/RogueByteOfficial)
-""Website" (https://img.shields.io/badge/Website-RogueByte-00AEEF)" (https://roguebyte-official.vercel.app.)
+The project focuses on cybersecurity engineering, reverse engineering, digital forensics, AI development, firmware analysis, and cross-platform software engineering. Its goal is to build practical, well-documented tools and applications for developers, security researchers, engineers, and technical professionals.
 
-About RogueByte
-
-RogueByte is an independent software development and cybersecurity research brand focused on:
-
-- 🔐 Cybersecurity & Security Research
-- 🔬 Reverse Engineering
-- 🧩 Binary Analysis
-- 🖥️ Linux & Termux Security Tools
-- 📱 Android Development
-- 💻 Software Development
-- 🛠️ Developer & Security Utilities
-- 🎮 PS4 Software & Firmware Research
-
-The project develops open-source tools and experimental software for developers, security researchers and reverse engineers.
-
-RogueByte Toolkit
-
-RogueByte Toolkit (RBRT) is a command-line toolkit designed for binary analysis, cybersecurity research and reverse engineering.
-
-Features
-
-- ELF binary analysis
-- Static vulnerability analysis
-- Entropy analysis
-- Hexadecimal inspection
-- Binary information extraction
-- Reverse-engineering utilities
-- Linux and Termux support
-- PS4 PUP / SELF / SPRX research utilities
-- Native C++ and Rust components
-- Python CLI interface
-
-Research
-
-RogueByte research includes analysis of:
-
-- Binary executable formats
-- Firmware structures
-- ELF / SELF / SPRX files
-- PS4 firmware research
-- Reverse engineering workflows
-- Software security
-- Vulnerability detection
-- Linux security
-
-«All security research and testing should be performed only on systems and software you own or are explicitly authorized to analyze.»
-
-Projects
-
-RogueByte Toolkit
-
-Advanced CLI toolkit for cybersecurity and reverse engineering.
-
-Repository:
-https://github.com/RogueByteOfficial
-
-PS4 Firmware Research
-
-Research tools for analyzing firmware packages and binary structures.
-
-Security Research Tools
-
-Open-source utilities for security testing, binary analysis and developer workflows.
-
-Developer
-
-RogueByte
-
-Independent Developer & Security Researcher
-
-Areas of expertise:
-
-"Cybersecurity" · "Reverse Engineering" · "Linux" · "Android" · "C/C++" · "Rust" · "Python" · "JavaScript" · "Binary Analysis"
-
-Links
-
-🌐 Official Website:
-https://roguebyte-official.vercel.app 
-
-💻 GitHub:
-https://github.com/RogueByteOfficial
-
-Keywords
-
-RogueByte, Rogue Byte, RogueByte Official, cybersecurity, security research, reverse engineering, binary analysis, malware analysis, ELF analysis, PS4 firmware research, PS4 reverse engineering, Linux security, Termux security, Android security, penetration testing, vulnerability analysis, cybersecurity tools, open source security tools, developer tools.
-
-License
-
-Individual projects may use different licenses. Check the "LICENSE" file in each repository for the applicable terms.
+<p align="left">
+  <a href="https://github.com/RogueByteOfficial">
+    <img src="https://img.shields.io/badge/GitHub-RogueByteOfficial-181717?style=for-the-badge&logo=github" alt="RogueByte GitHub">
+  </a>
+  <a href="https://roguebyte.online">
+    <img src="https://img.shields.io/badge/Website-roguebyte.online-00AEEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RogueByte Official Website">
+  </a>
+</p>
 
 ---
 
-© 2026 RogueByte — Cybersecurity & Software Research
+## About RogueByte
+
+RogueByte brings together software engineering, cybersecurity research, AI experimentation, and hardware-level investigation under one technical ecosystem.
+
+### Core Research & Development Areas
+
+- 🔐 **Cybersecurity Engineering** — defensive security, authorized penetration testing, vulnerability assessment, and security tooling.
+- 🔬 **Reverse Engineering** — executable analysis, program behavior investigation, and software internals.
+- 🧬 **Binary & Firmware Analysis** — ELF, firmware structures, binary inspection, and low-level research.
+- 🕵️ **Digital Forensics** — forensic data processing, evidence integrity, recovery workflows, and forensic analysis utilities.
+- 🤖 **Artificial Intelligence** — local AI models, coding assistants, autonomous research workflows, and AI-powered applications.
+- 💻 **Software Engineering** — Python, C/C++, Rust, TypeScript, JavaScript, and application architecture.
+- 📱 **Android & Cross-Platform Development** — Android applications, Flutter, Linux, and Termux-compatible tooling.
+- 🐧 **Linux & Security Automation** — command-line utilities, system diagnostics, controlled security testing, and automation.
+- 🎮 **PlayStation & Console Research** — firmware investigation, hardware diagnostics, and software-level research.
+- 🔧 **Electronics & Hardware Diagnostics** — embedded systems, SPI NOR investigation, and console/controller repair tooling.
+
+## Featured Projects
+
+Explore the repositories published under the RogueByte organization:
+
+### 1. RogueByte Toolkit (RBRT)
+
+A command-line toolkit for binary inspection, reverse-engineering workflows, and cybersecurity research.
+
+**Key capabilities include:**
+- ELF binary information extraction and inspection.
+- Static analysis and security-oriented checks.
+- Entropy analysis and hexadecimal inspection.
+- Firmware and binary structure investigation.
+- Linux and Termux-oriented workflows.
+- Modular Python tooling with native components where applicable.
+
+Repository: https://github.com/RogueByteOfficial
+
+### 2. RogueByte Cyber Lab
+
+A cybersecurity training and research environment designed around practical security exercises and controlled laboratory scenarios.
+
+Research areas include web security, Linux security, network diagnostics, defensive operations, and isolated training environments.
+
+### 3. RogueByte Forensic Recovery Pro
+
+A digital-forensics and recovery research project focused on file recovery workflows, data inspection, evidence integrity, and forensic analysis.
+
+### 4. WhatsApp Forensics Ultimate
+
+A forensic research toolkit for authorized analysis of WhatsApp database artifacts, including database reporting, WAL-related analysis, and integrity verification.
+
+The project emphasizes read-only workflows, reproducible testing, and documented analysis boundaries.
+
+### 5. RogueByte GeoForensics Intelligence
+
+A research project exploring geospatial data analysis and digital-forensics workflows using lawfully accessible data sources.
+
+### 6. RogueByte Coder
+
+An experimental AI engineering project focused on developing a compact language model using a custom tokenizer and independently initialized model parameters.
+
+The project explores model training, multilingual text processing, inference, and lightweight AI architecture.
+
+### 7. 13.52AI
+
+An AI-related project within the broader RogueByte development ecosystem.
+
+Project details, implementation status, and technical documentation are maintained in the corresponding project resources where available.
+
+### 8. PlayStation Research & Repair Tools
+
+A collection of software and hardware-oriented projects covering PlayStation firmware research, controller diagnostics, UART investigation, and console repair workflows.
+
+Related repositories include:
+
+- DualSense Pro Repair Suite
+- PS4 WebKit Research
+- RogueByte PS4 Emulator Source
+- RogueByte Motherboard Diagnostic Suite (RB-MBDS)
+
+These projects vary in scope and maturity; consult each repository for its supported features and current development status.
+
+### 9. AI-Powered Applications & Developer Tools
+
+RogueByte also explores practical software products, including local AI assistants, developer utilities, workflow automation, business applications, and cross-platform tools.
+
+For the latest projects and releases, visit:
+
+**GitHub Organization:** https://github.com/RogueByteOfficial
+
+---
+
+## Technology Stack
+
+| Category | Technologies |
+|---|---|
+| Programming | Python, C, C++, Rust, JavaScript, TypeScript |
+| Application Development | Flutter, Android, cross-platform desktop applications |
+| AI Engineering | Local language models, tokenization, inference, AI agents |
+| Cybersecurity | Linux, security testing, static analysis, network diagnostics |
+| Reverse Engineering | Binary formats, executable inspection, firmware analysis |
+| Digital Forensics | Database analysis, artifact examination, integrity verification |
+| Infrastructure | Git, GitHub, Docker, PostgreSQL, Linux, WSL2 |
+| Hardware Research | SPI NOR, UART, console diagnostics, embedded-system investigation |
+
+Technologies vary between projects. Refer to individual repositories for precise dependencies and compatibility requirements.
+
+## Security Research Principles
+
+RogueByte promotes responsible, documented, and authorized technical research.
+
+- Test only systems, applications, and devices you own or have explicit permission to assess.
+- Prefer read-only analysis when modifying evidence or firmware is unnecessary.
+- Document test environments, limitations, and reproducible results.
+- Preserve evidence integrity in forensic workflows.
+- Apply appropriate safeguards to security-testing tools and laboratory environments.
+
+> All security research and testing must be performed on systems and software you own or are explicitly authorized to analyze.
+
+## Developer & Researcher
+
+**Fares Sid Ahmed — Sido / RogueByte**
+
+Independent Software Developer & Cybersecurity Researcher
+
+Professional interests include cybersecurity engineering, reverse engineering, digital forensics, AI development, Linux systems, firmware analysis, software architecture, and hardware diagnostics.
+
+The developer holds the **ISC2 Certified in Cybersecurity (CC)** credential.
+
+RogueByte projects combine practical engineering with ongoing experimentation, testing, and technical research.
+
+## Official Links
+
+- 🌐 **Official Website:** https://roguebyte.online
+- 💻 **GitHub Organization:** https://github.com/RogueByteOfficial
+- 👨‍💻 **Developer GitHub:** https://github.com/sidopac1a
+
+## contact
+
+- 📩 contact@roguebyte.online
+
+## Contributing & Licensing
+
+Contributions, technical discussions, bug reports, and constructive feedback are welcome where a repository supports community participation.
+
+Each project may have its own license, dependencies, usage restrictions, and contribution guidelines. Always review its `LICENSE`, `README.md`, and security documentation before using or redistributing its code.
+
+## Search Keywords
+
+RogueByte, RogueByte Official, Rogue Byte, Sido, Fares Sid Ahmed, SidoDev-Dz, cybersecurity research, cybersecurity engineering, penetration testing, reverse engineering, binary analysis, firmware analysis, digital forensics, AI engineering, local AI models, Python security tools, Linux security, Termux tools, Android development, PlayStation firmware research, console diagnostics, open-source developer tools.
+
+---
+
+**© 2026 RogueByte — Cybersecurity, AI Engineering, Reverse Engineering & Software Development**
+
+*Engineering practical tools. Exploring software internals. Advancing independent technical research.*
