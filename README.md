@@ -48,7 +48,7 @@ A command-line toolkit for binary inspection, reverse-engineering workflows, and
 - Linux and Termux-oriented workflows.
 - Modular Python tooling with native components where applicable.
 
-Repository: https://github.com/RogueByteOfficial
+Repository: https://github.com/RogueByteOfficial/ps4-fw-13.02exploit-vuln
 
 ### 2. RogueByte Cyber Lab
 
