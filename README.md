@@ -134,7 +134,7 @@ RogueByte promotes responsible, documented, and authorized technical research.
 
 ##  Organization Members 👥
 
-**Adel Mouahidi
+**Adel Mouahidi (adel-mhdDz)
 Status: New Member Added
 Position: Management & Marketing
 Organization: RogueByte**
