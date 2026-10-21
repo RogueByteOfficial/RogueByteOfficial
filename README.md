@@ -132,6 +132,13 @@ RogueByte promotes responsible, documented, and authorized technical research.
 
 > All security research and testing must be performed on systems and software you own or are explicitly authorized to analyze.
 
+##  Organization Members 👥
+
+**Adel Mouahidi
+Status: New Member Added
+Position: Management & Marketing
+Organization: RogueByte**
+
 ## Developer & Researcher
 
 **Fares Sid Ahmed — Sido / RogueByte**
@@ -143,6 +150,7 @@ Professional interests include cybersecurity engineering, reverse engineering, d
 The developer holds the **ISC2 Certified in Cybersecurity (CC)** credential.
 
 RogueByte projects combine practical engineering with ongoing experimentation, testing, and technical research.
+##
 
 ## Official Links
 
